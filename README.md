@@ -1,16 +1,29 @@
-# acadmigo
+# Acadmigo
+A Flutter project
 
-A new Flutter project.
+## About
+This is a frontend of Academic app.
+In this project I created the frontend of an Android App which help student to find a college depending on their interest and some other additional feature
 
-## Getting Started
+## Features
+- User can find their college of interest
+- User can compare different colleges
+- User can get notes of their current college
+- User can view or give reviews to colleges
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+### User Feed Screen
+<img src="https://github.com/hopansh/Acadmigo_App/blob/main/Screenshots/Screenshot_1608290180.png" width="270" height="500">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### User Menu Drawer Screen
+<img src="https://github.com/hopansh/Acadmigo_App/blob/main/Screenshots/Screenshot_1608290176.png" width="270" height="500">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### College Profile Screen
+<img src="https://github.com/hopansh/Acadmigo_App/blob/main/Screenshots/Screenshot_1608290195.png" width="270" height="500">
+
+### College Search Screen
+<img src="https://github.com/hopansh/Acadmigo_App/blob/main/Screenshots/Screenshot_1608290232.png" width="270" height="500">
+
+### About App Screen
+<img src="https://github.com/hopansh/Acadmigo_App/blob/main/Screenshots/Screenshot_1608290353.png" width="270" height="500">
